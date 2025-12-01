@@ -1,0 +1,16 @@
+Question5
+###################################################################
+Portfolio Analytics. A portfolio manager approaches you with the following questions,
+describe how you would approach each one. The portfolio is $1B in GMV, includes 50 software securities, has 80% idio variance when measured by a multi-factor risk model with 50 factors, historically trades about $100M per month, and has performed at a 2
+ 
+Sharpe and 1.5 IR over the last 2 years. Limit each response to a maximum of 3 sentences.
+-- My momentum exposure is higher than two weeks ago, what could be driving that?
+-- The risk model says that I have no Beta exposure, but it feels like I do, can you check?
+-- The risk model says that my portfolio has $2M of daily idio vol, but it feels more volatile than that, what could be going on?
+-- I’m not sure how well I’m timing my trades, will you help me quantify my timing skill?
+-- I have 50 positions in my portfolio, some larger than others, how should I think about measuring the concentration of position sizes?
+-- My Sharpe is higher than my IR, how can I find the drivers of those differences? 
+-- I’ve been losing money on FOMC and CPI days, will you help me understand why
+and quantify it for the future?
+###################################################################
+

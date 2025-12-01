@@ -1,0 +1,24 @@
+Question4
+####################################################
+Earnings KPI Drivers. We spend significant effort understanding the companies in which
+we invest.
+o Select two US securities from different industries. Compare and contrast their
+business models, earnings drivers, and earnings results. Spend part of the analysis addressing KPIs that might be useful for predicting future under/over performance.
+o Track any materials that you used during your research.
+####################################################
+
+In this question we focus on QCOM and AXON
+We have done a deepdive to construct the following tabel for KPIs:
+
+| Dimension                | Qualcomm (QCOM)                                                             | Axon (AXON)                                                                            |
+| ------------------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Industry**             | Semis / wireless & edge-AI platform                                         | Public safety hardware + SaaS                                                          |
+| **Revenue Scale**        | ~$40B FY24, large & global ([qualcomm.com][1])                              | ~$2.1B FY24, but growing ~30%+ per year ([PR Newswire][2])                             |
+| **Cyclicality**          | Moderate–high (semiconductor and handset cycles)                            | Lower; demand tied to public safety, but some budget sensitivity                       |
+| **Growth Profile**       | Mid-single to low-double-digit overall; higher in Auto/IoT                  | High-growth (30%+), with expanding margins                                             |
+| **Key External Drivers** | Global smartphone demand, 5G/6G cycles, competition from other chip vendors | Public safety policies, gov budgets, adoption of body cams & less-lethal tech          |
+| **Key Internal Drivers** | R&D, design wins, IP licensing model robustness                             | Innovation cadence, platform breadth (TASER + sensors + SaaS), execution on ARR growth |
+| **Most Important KPIs**  | QCT mix, QTL stability, gross margin, AI/Auto/IoT traction                  | ARR/software growth, NRR/churn, device base + attach rates, EBITDA margin              |
+
+[1]: https://www.qualcomm.com/news/releases/2024/11/qualcomm-announces-fourth-quarter-and-fiscal-2024-results?utm_source=chatgpt.com "Qualcomm Announces Fourth Quarter and Fiscal 2024 ..."
+[2]: https://www.prnewswire.com/news-releases/axon-2024-revenue-grows-33-to-2-1-billion-third-consecutive-year-of-30-annual-growth-302385237.html?utm_source=chatgpt.com "Axon 2024 revenue grows 33% to $2.1 billion"

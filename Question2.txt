@@ -1,0 +1,11 @@
+Question2
+##################################################
+One of our investors is concerned that holding securities that are also owned
+by other long/short equity hedge funds can be dangerous.
+-- Discuss why you agree or disagree
+-- Discuss which datasets and methodologies might you use to test this theory?
+##################################################
+
+Holding crowded securities can be dangerous due to liquidity constraints, forced unwinds, and in rare cases short squeezes. Historical examples include the quant meltdown or the recent GameStop saga. However, the overlap itself is not inherently dangerous; it can improve market efficiency and may indicate strong fundamentals.
+
+To test this theory, we can examine 13F filings and evaluate performance, drawdowns, and Sharpe ratios. One approach is to construct a basket of stocks that have historically been heavily owned by many funds and analyze how that basket has performed over time.
