@@ -4,7 +4,7 @@ Playing with different frameworks for testing various alphas
 # We will focus on the following issues in this file :
 My overall approach.
 The Challenges faced and how they were addressed.
-The Any assumptions made during the development process.
+Any assumptions made during the development process.
 # We will test various alphas, based on the case study.
 
 <!-- (Q1) Momentum. One of our investors believes that stocks with high stock and/or sector- level momentum have positive expected returns.
