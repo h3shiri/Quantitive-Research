@@ -20,6 +20,7 @@ A) Market/Price Features
 
 B) Fundamental/Business Features
 – Revenue
+- Cash Flow
 – Earnings
 – Debt
 – R&D expenditure as a percentage of budget
